@@ -817,10 +817,15 @@ a {
 }
 .cid-tGCcD2WzxK .item-subtitle {
   color: #bbbbbb;
+  text-align: center;
 }
 .cid-tGCcD2WzxK .mbr-text,
 .cid-tGCcD2WzxK .mbr-section-btn {
   color: #b39928;
+  text-align: center;
+}
+.cid-tGCcD2WzxK .item-title {
+  text-align: center;
 }
 .cid-tGCcag1Ol8 {
   padding-top: 5rem;

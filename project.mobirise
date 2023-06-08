@@ -307,10 +307,15 @@
               "text-align": "center"
             },
             ".item-subtitle": {
-              "color": "#bbbbbb"
+              "color": "#bbbbbb",
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#b39928"
+              "color": "#b39928",
+              "text-align": "center"
+            },
+            ".item-title": {
+              "text-align": "center"
             }
           },
           "_name": "features2",
