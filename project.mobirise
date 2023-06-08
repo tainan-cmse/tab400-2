@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-08_1611",
+    "name": "洲仔尾400[二部曲]",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -35,6 +35,19 @@
     "versionFirst": "5.8.0",
     "siteFonts": [],
     "imageResize": true,
+    "chatbutton": {},
+    "favicon": "@PROJECT_PATH@/assets/images/noun-arrow-1014665.svg",
+    "mbrsiteDomain": "3spgxeagbd",
+    "usedWebp": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
     "uniqCompNum": 1,
     "versionPublish": "5.8.0"
   },
